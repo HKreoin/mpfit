@@ -11,7 +11,7 @@ class Order extends Model
     use HasFactory;
 
     protected $fillable = [
-        'cusromer_name',
+        'customer_name',
         'product_id',
         'quantity',
         'total_price',
