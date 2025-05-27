@@ -1,3 +1,8 @@
+## Задеплоенный сайт
+http://user686175.web.cloud4box.ru/admin/login
+mail: admin@mail.com
+pass: secret
+
 ## Установка
 
 Скопируй репозиторий с помощью git clone
